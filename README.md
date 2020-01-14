@@ -1,0 +1,1 @@
+A Full-Stack MERN app that lets users save and share where they've visited
