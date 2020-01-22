@@ -21,13 +21,16 @@ body {
 } */
 
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
+/* @import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap'); */
 
 * {
 	box-sizing: border-box;
+	/* max-width: 90rem; */
 }
 
 html {
 	font-family: 'Open Sans', sans-serif;
+	/* font-family: 'Ubuntu', sans-serif; */
 }
 
 body {
