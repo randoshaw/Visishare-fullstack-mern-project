@@ -9,6 +9,7 @@
 	justify-content: center;
 	align-items: center;
 }
+/* this is a comment */
 
 .nav-links li {
 	margin: 1rem;
@@ -16,7 +17,7 @@
 
 .nav-links a {
 	border: 1px solid transparent;
-  color: #292929;
+	color: #292929;
 	text-decoration: none;
 	padding: 0.5rem;
 }
@@ -26,9 +27,9 @@
 .nav-links a.active {
 	background: #f8df00;
 	border-color: #292929;
-  color: darkslategray;
-  border-radius: 5px;
-  font-weight: bold;
+	color: darkslategray;
+	border-radius: 5px;
+	font-weight: bold;
 }
 
 .nav-links button {
